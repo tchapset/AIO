@@ -1,0 +1,173 @@
+✅ Solana Web3 initialisé
+💰 Adresse Wallet: 452jVRhbvgJHkoP5HPitbMHsiYNbmCjxm5VhukhUFAPN
+✅ Colonnes order_id et payment_url ajoutées à la table deposits
+✅ Base de données initialisée
+🚀 **COVESTING TRADING BOT LANCÉ**
+✅ Port : 8000
+✅ Token : Configuré
+✅ Admin : 5798607712
+✅ NowPayments : ✅ Configuré
+✅ Webhook : ✅ Configuré
+✅ Solana : ✅ Configuré
+✅ Système file d'attente : ✅ Activé (2h délai)
+✅ Système codes d'accès : ✅ Activé
+✅ Système codes parrainage : ✅ Activé
+✅ Plans : 8 disponibles
+✅ Retraits : ✅ Activés
+✅ Support : @your_support_telegram
+✅ Communauté : https://t.me/covesting_community
+✅ Mises à jour prix : ✅ Activées (SOL/USDT)
+✅ Système multi-comptes : ✅ Activé
+✅ Dépôts minimum : $10 USD
+❌ Exception non capturée: SQLITE_ERROR: duplicate column name: order_id
+❌ Exception non capturée: SQLITE_ERROR: duplicate column name: payment_url
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: AggregateError"}
+❌ Erreur connexion Telegram : EFATAL: AggregateError
+⚠️ Erreur mise à jour prix: Error
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: AggregateError"}
+📊 Prix SOL (Coinbase): $124.3750
+🤖 **Prêt à générer des profits avec COVESTING !**
+⚠️ Erreur mise à jour prix: Error
+⚠️ Erreur fallback prix: Error
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: read ETIMEDOUT"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+error: [polling_error] {"code":"EFATAL","message":"EFATAL: Error: getaddrinfo EAI_AGAIN api.telegram.org"}
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
